@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Network_programming.iml" filepath="$PROJECT_DIR$/Network_programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Network_Programming.iml" filepath="$PROJECT_DIR$/Network_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 2/Task 2.iml" filepath="$PROJECT_DIR$/Task 2/Task 2.iml" />
     </modules>
   </component>
 </project>
